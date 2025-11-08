@@ -1,28 +1,10 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="EVENTI LIVE", RADIO SERIE A 
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=10f377f6d63553cfba11153a95ebd9ea:527d8e7452d000e5818bce597d98510c
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcaos-fs-live-dazn-cdn.dazn.com/keq5dsf6aa4azd9ypzb41u4n/web/stream.mpd?channel=5067&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="EVENTI LIVE", FUTSAL
+#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="DAZN 🇮🇹", TEST 2
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=1cb411730cb15d4a8d65d0387bf3e8a5:4a93074234ce8d213901824d87467bdf
+#KODIPROP:inputstream.adaptive.license_key=6164a0abaa7c53c6875fa1e7fe0bb463:271510d3e1259571dcc568a232e397eb
 #KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcaos-fs-live-dazn-cdn.dazn.com/1qy2wfdp4udka16bpdqaev57z1/web/stream.mpd?channel=5063&outlet=dazn-italy&plang=it
+https://mpds.nws0.xyz:2083/Dm.mpd?assetId=4hqcjx5zv91f1bdx71io4bnrl.mpd
 
-#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="EVENTI LIVE", VOLLEY
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=63d03eb4f8c6554e98c0ccd22fb730f8:ba96be9b5e2fd843214ccbc07e448fb1
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcaos-fs-live-dazn-cdn.dazn.com/qjk2nw2i0ivv135hnz7qxgwlq/web/stream.mpd?channel=5062&outlet=dazn-italy&plang=it
 
-#EXTINF:-1 tvg-logo="https://sseasideflowers.trustywebsites.com/wp-content/uploads/2018/11/test-product-test.png" group-title="EVENTI LIVE", NFL
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=beabb60ac43351c5956239351c50a31e:45b1da6b84f890ea8519156ebfd7e132
-#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
-https://dcaos-fs-live-dazn-cdn.dazn.com/1jns5lhl4z32u1160qhahhk72h/web/stream.mpd?channel=7439&outlet=dazn-italy&plang=it
