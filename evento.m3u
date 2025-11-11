@@ -1,7 +1,0 @@
-#EXTM3U
-
-#EXTINF:-1 tvg-logo="https://image.discovery.indazn.com/eu/v3/eu/none/1m489mp1omsy04238eaa7ekts_image-header_pDach_1758101273000/fill/center/top/none/85/1937/1093/webp/image" group-title="Serie A 🇮🇹", INTERNAZIONALE vs LAZIO 🇮🇹
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-#KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
-#KODIPROP:inputstream.adaptive.license_key=cfb5e2b73bef4f3c878f25ab86a7451f:0d6712bf2a84edcc93d001a9613f6fec
-https://dcaos-fs-live-dazn-cdn.dazn.com/1bq5pvsm4vsgv1magl6ae593ec/web/stream.mpd?channel=1344&outlet=dazn-italy&plang=en
