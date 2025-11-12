@@ -1,0 +1,131 @@
+#EXTM3U
+# Playlist generata da Amstaff Downloader
+# Generata il: 2025-11-12 19:02:03
+# Canali totali: 22
+
+#EXTINF:-1 tvg-id="rai1.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Rai_1_-_Logo_2016.svg/512px-Rai_1_-_Logo_2016.svg.png",📺 Rai 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rai1/browser-dash/rai1.mpd|0000
+
+#EXTINF:-1 tvg-id="rai2.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/9/99/Rai_2_-_Logo_2016.svg/512px-Rai_2_-_Logo_2016.svg.png",📺 Rai 2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rai2/browser-dash/rai2.mpd|0000
+
+#EXTINF:-1 tvg-id="rai3.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/47/Rai_3_-_Logo_2016.svg/512px-Rai_3_-_Logo_2016.svg.png",📺 Rai 3
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rai3/browser-dash/rai3.mpd|0000
+
+#EXTINF:-1 tvg-id="rete4.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Rete_4_-_Logo_2018.svg/512px-Rete_4_-_Logo_2018.svg.png",📺 Rete 4
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rete4/browser-dash/rete4.mpd|0000
+
+#EXTINF:-1 tvg-id="canale5.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/Canale_5_-_2018_logo.svg/512px-Canale_5_-_2018_logo.svg.png",📺 Canale 5
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/canale5/browser-dash/canale5.mpd|0000
+
+#EXTINF:-1 tvg-id="italia1.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/3/30/Logo_Italia_1.svg/512px-Logo_Italia_1.svg.png",📺 Italia 1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/italia1/browser-dash/italia1.mpd|0000
+
+#EXTINF:-1 tvg-id="la7.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/0/02/LA7_-_Logo_2011.svg/512px-LA7_-_Logo_2011.svg.png",📺 La7
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/la7/browser-dash/la7.mpd|0000
+
+#EXTINF:-1 tvg-id="la7.it" group-title="INTRATTENIMENTO" tvg-logo="https://magtv.altervista.org/wp-content/uploads/2025/09/La7-cinema-320x245.png",📺 La7 Cinema
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/la7d/browser-dash/la7d.mpd|0000
+
+#EXTINF:-1 tvg-id="nove.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/Nove_-_Logo_2017.svg/512px-Nove_-_Logo_2017.svg.png",📺 Nove
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/nove/browser-dash/nove.mpd|0000
+
+#EXTINF:-1 tvg-id="dmax.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4f/DMAX_-_Logo_2016.svg/1280px-DMAX_-_Logo_2016.svg.png",📺 DMax
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/dmaxitalia/browser-dash/dmaxitalia.mpd|0000
+
+#EXTINF:-1 tvg-id="rsi.la1.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/RSI_La_1_2012.svg/512px-RSI_La_1_2012.svg.png",📺 RSI LA1
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rsila1hd/browser-dash/rsila1hd.mpd|0000
+
+#EXTINF:-1 tvg-id="rsi.la2.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f4/RSI_La_2_2012.svg/512px-RSI_La_2_2012.svg.png",📺 RSI LA2
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rsila2hd/browser-dash/rsila2hd.mpd|0000
+
+#EXTINF:-1 tvg-id="rai.gulp.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c1/Rai_Gulp_-_Logo_2017.svg/512px-Rai_Gulp_-_Logo_2017.svg.png",📺 Rai Gulp
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raigulp/browser-dash/raigulp.mpd|0000
+
+#EXTINF:-1 tvg-id="rai.storia.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/f/f8/Rai_Storia_-_Logo_2017.svg/512px-Rai_Storia_-_Logo_2017.svg.png",📺 Rai Storia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raistoria/browser-dash/raistoria.mpd|0000
+
+#EXTINF:-1 tvg-id="rai.scuola.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/1/11/Rai_Scuola_-_Logo_2017.svg/512px-Rai_Scuola_-_Logo_2017.svg.png",📺 Rai Scuola
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raiscuola/browser-dash/raiscuola.mpd|0000
+
+#EXTINF:-1 tvg-id="rai.news.it" group-title="NEWS" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a1/Rai_News_24_logo_(2022).svg/512px-Rai_News_24_logo_(2022).svg.png",📺 Rai News
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/rainews/browser-dash/rainews.mpd|0000
+
+#EXTINF:-1 tvg-id="rai.sport.it" group-title="SPORT" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b3/Rai_Sport_-_Logo_2022.svg/512px-Rai_Sport_-_Logo_2022.svg.png",📺 Rai Sport
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://viamotionhsi.netplus.ch/live/eds/raisport1/browser-dash/raisport1.mpd|0000
+
+#EXTINF:-1 tvg-id="rai.italia.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Rai_Italia_-_Logo_2017.svg/512px-Rai_Italia_-_Logo_2017.svg.png",📺 Rai Italia
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=b02e6c916cc9453fa23a6a71da29fbff:5459f15c2c1190d95fe4976ec69ae875
+https://idx1.karmakurama.com/firstlokal2/live/eds/RaiItalia/mpd/RaiItalia.mpd
+
+#EXTINF:-1 tvg-id="mediaset.20.it" group-title="INTRATTENIMENTO" tvg-logo="https://www.davidemaggio.it/app/uploads/2018/02/20-mediaset.jpg",📺 Mediaset 20
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=00f9f3c0783536b80299a8aa9705e03a:4fee7943868f00aab0b6c070d1896886
+https://live03p-col.msf.cdn.mediaset.net/live/ch-lb/lb-dash-widevine.isml/manifest_hr.mpd
+
+#EXTINF:-1 tvg-id="MTV.HD.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/MTV_90s_2022.svg",📺 MTV 90s
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=e83b7a7c66c941d48dfd393086077745:71f4a249b41cb62db6164b47fb22722f
+https://idx1.karmakurama.com/firstlokal1/live/eds/MTV90sHD/mpd/MTV90sHD.mpd
+
+#EXTINF:-1 tvg-id="discovery.it" group-title="INTRATTENIMENTO" tvg-logo="https://logos-world.net/wp-content/uploads/2022/01/Discovery-Channel-Logo.png",📺 Discovery
+https://d24aqelmrau4kx.cloudfront.net/v1/manifest/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-l1oas691aj7p2/f9506ac3-80c6-41de-858c-a27a877155d8/3.m3u8
+
+#EXTINF:-1 tvg-id="gambero.rosso.it" group-title="INTRATTENIMENTO" tvg-logo="https://upload.wikimedia.org/wikipedia/it/thumb/2/21/Gambero_Rosso.png/512px-Gambero_Rosso.png",📺 Gambero Rosso
+https://StreamCdnG20-2018f6355a15442ebb37007fa4f6c064.msvdn.net/live/S7530969/XWerenuxbSdW/playlist.m3u8
+
