@@ -1,0 +1,24 @@
+#EXTM3U
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="Serie A 🇮🇹", Live TV  NFL Network Live 247 Coverage
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcaos-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-205/stream.mpd?p=web
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="Serie A 🇮🇹", Xavier @ Iowa
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=9c10d52f94265b809f0e3e2f1f2b9735:e573200c67a4e868c2940a9517872397
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcaos-fs-live-dazn-cdn.dazn.com/g1o4akvd8b3n1h6p4tyr69mqu/web/stream.mpd?channel=5062&outlet=dazn-dach&plang=en
+
+#EXTINF:-1 tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Serie_A.svg/1649px-Serie_A.svg.png" group-title="Serie A 🇮🇹", Live TV  NFL Network Live 247 Coverage
+#KODIPROP:inputstreamaddon=inputstream.adaptive
+#KODIPROP:inputstream.adaptive.manifest_type=dash
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=d91b5dc41ef85a25883ca47efb3c6641:5fa7e0ff1e379a83e44005917e3af5f2
+#KODIPROP:inputstream.adaptive.stream_headers=user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/141.0.0.0 Safari/537.36&referer=https://www.dazn.com/&origin=https://www.dazn.com
+https://dcaos-fs-live-dazn-cdn.dazn.com/dash/dazn-linear-205/stream.mpd?p=web
