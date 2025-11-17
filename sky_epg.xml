@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<tv generator-info-name="Sky Italia EPG" source-info-url="https://github.com/powerbitt/SuperMike">
+    <!-- SKY SPORT -->
+    <channel id="SkySport24.it">
+        <display-name>Sky Sport 24</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysport24.png"/>
+    </channel>
+    <channel id="SkySportUno.it">
+        <display-name>Sky Sport Uno</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportuno.png"/>
+    </channel>
+    <channel id="SkySportFootball.it">
+        <display-name>Sky Sport Football</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportfootball.png"/>
+    </channel>
+    <channel id="SkySportF1.it">
+        <display-name>Sky Sport F1</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportf1.png"/>
+    </channel>
+    <channel id="SkySportMotoGP.it">
+        <display-name>Sky Sport MotoGP</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportmotogp.png"/>
+    </channel>
+    <channel id="SkySportArena.it">
+        <display-name>Sky Sport Arena</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportarena.png"/>
+    </channel>
+    <channel id="SkySportNBA.it">
+        <display-name>Sky Sport NBA</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportnba.png"/>
+    </channel>
+    <channel id="SkySportTennis.it">
+        <display-name>Sky Sport Tennis</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysporttennis.png"/>
+    </channel>
+    <channel id="SkySportGolf.it">
+        <display-name>Sky Sport Golf</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportgolf.png"/>
+    </channel>
+    <channel id="SkySportCalcio.it">
+        <display-name>Sky Sport Calcio</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportcalcio.png"/>
+    </channel>
+    <channel id="SkySportSerieA.it">
+        <display-name>Sky Sport Serie A</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skysportseriea.png"/>
+    </channel>
+    
+    <!-- SKY CINEMA -->
+    <channel id="SkyCinemaUno.it">
+        <display-name>Sky Cinema Uno</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemauno.png"/>
+    </channel>
+    <channel id="SkyCinemaAction.it">
+        <display-name>Sky Cinema Action</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemaaction.png"/>
+    </channel>
+    <channel id="SkyCinemaComedy.it">
+        <display-name>Sky Cinema Comedy</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemacomedy.png"/>
+    </channel>
+    <channel id="SkyCinemaFamily.it">
+        <display-name>Sky Cinema Family</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemafamily.png"/>
+    </channel>
+    <channel id="SkyCinemaSuspense.it">
+        <display-name>Sky Cinema Suspense</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemasuspense.png"/>
+    </channel>
+    <channel id="SkyCinemaRomance.it">
+        <display-name>Sky Cinema Romance</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemaromance.png"/>
+    </channel>
+    <channel id="SkyCinemaDrama.it">
+        <display-name>Sky Cinema Drama</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemadrama.png"/>
+    </channel>
+    <channel id="SkyCinemaCollection.it">
+        <display-name>Sky Cinema Collection</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemacollection.png"/>
+    </channel>
+    <channel id="SkyCinemaDue.it">
+        <display-name>Sky Cinema Due</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemadue.png"/>
+    </channel>
+    <channel id="SkyCinemaMax.it">
+        <display-name>Sky Cinema Max</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycinemamax.png"/>
+    </channel>
+    
+    <!-- SKY INTRATTENIMENTO -->
+    <channel id="SkyUno.it">
+        <display-name>Sky Uno</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skyuno.png"/>
+    </channel>
+    <channel id="SkyAtlantic.it">
+        <display-name>Sky Atlantic</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skyatlantic.png"/>
+    </channel>
+    <channel id="SkyTg24.it">
+        <display-name>Sky TG24</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skytg24.png"/>
+    </channel>
+    <channel id="SkyArte.it">
+        <display-name>Sky Arte</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skyarte.png"/>
+    </channel>
+    <channel id="SkyNature.it">
+        <display-name>Sky Nature</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skynature.png"/>
+    </channel>
+    <channel id="SkyDocumentaries.it">
+        <display-name>Sky Documentaries</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skydocumentaries.png"/>
+    </channel>
+    <channel id="SkyInvestigation.it">
+        <display-name>Sky Investigation</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skyinvestigation.png"/>
+    </channel>
+    <channel id="SkyCrime.it">
+        <display-name>Sky Crime</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skycrime.png"/>
+    </channel>
+    <channel id="SkyHistory.it">
+        <display-name>Sky History</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skyhistory.png"/>
+    </channel>
+    <channel id="SkySerie.it">
+        <display-name>Sky Serie</display-name>
+        <icon src="https://raw.githubusercontent.com/powerbitt/SuperMike/main/logos/skyserie.png"/>
+    </channel>
+</tv>
