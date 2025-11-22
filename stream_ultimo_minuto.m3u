@@ -1,13 +1,19 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-22 15:58:10
-# Canali totali: 16
+# Generata il: 2025-11-22 16:03:13
+# Canali totali: 17
 
 #EXTINF:-1 tvg-id="DAZN4.it" group-title="Eventi DAZN 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 CAGLIARI vs GENOA [DAZN - KODI 21.1] (ITA - MPD)
 #KODIPROP:inputstream.adaptive.manifest_type=mpd
 #KODIPROP:inputstream.adaptive.license_type=clearkey
 #KODIPROP:inputstream.adaptive.license_key=0000
 https://swisslau1-3-dash-live.zahs.tv/HD_dazn_event_6_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIE2TSRCFGA3TKRJQIUZECLJTGYZEMRBSIQYUGNCBGZDDSOJGMRZG2PLFPBYGS4TBORUW63R2GE3TMNBUGI2TQMJUEZUW42LUNFQWY4TBORST2MRQGAYDAJTNMF4HEYLUMU6TEMBQGAYCM3LJNZZGC5DFHUYTAMBQEZYHEZLGMVZHEZLEL5WGC3THOVQWOZJ5MVXCM43JM46TEMC7G4YWEZBWMNQWGMDEGJRTQNRXMJSTSYRYMU2TAYZQG44DINBYGJTCM43VMJ2GS5DMMVZT22DJMRSGK3RNONSGQJTVONSXEX3JMQ6XG23ZL5RWQOR2GE4TOMJRGYYCM5R5GA|0000
+
+#EXTINF:-1 tvg-id="DAZN4.it" group-title="Eventi DAZN 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 15:00 UDINESE vs BOLOGNA [DAZN - KODI 21.1] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=0000
+https://swisslau1-2-dash-live.zahs.tv/HD_dazn_event_9_ch/m.mpd?z32=MF2WI2LPL5RW6ZDFMNZT2YLBMMTGG43JMQ6TCOBXIE2TSRCFGRAUIRRUGU3TOLJVGU4TMNKFIYYDCRJVIRCUCNRYEZSHE3J5MV4HA2LSMF2GS33OHIYTONRUGQZDKOBRGUTGS3TJORUWC3DSMF2GKPJSGAYDAMBGNVQXQ4TBORST2MRQGAYDAJTNNFXHEYLUMU6TCMBQGATHA4TFMZSXE4TFMRPWYYLOM52WCZ3FHVSW4JTTNFTT2MRQL43TAMZRG43TKZDEGQ4WMN3DMM2GEY3GGU3DMOBSGQ4GENRZMU4WKJTTOVRHI2LUNRSXGPLINFSGIZLOFVZWI2BGOVZWK4S7NFSD243LPFPWG2B2HIYTSNZRGE3DAJTWHUYA|0000
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
