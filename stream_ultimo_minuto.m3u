@@ -1,35 +1,17 @@
-#EXTM3U x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
-#EXTINF:-1 tvg-id="La.5.it" tvg-name="📺 ELEVEN SPORT 1 (POL - ACE)" tvg-logo="" group-title="EVENTI", 📺 ELEVEN SPORT 1 (POL - ACE)
-acestream://14407b00d454cb7dc0d70aa26e8bbc554f457f00
-#EXTINF:-1 tvg-id="La.5.it" tvg-name="📺 ELEVEN SPORT 1 4K (POL - ACE)" tvg-logo="" group-title="EVENTI", 📺 ELEVEN SPORT 1 4K (POL - ACE)
-acestream://7ac2d74ef6df9d15012992d7e0e635a95f58c652
-#EXTINF:-1 tvg-id="La.5.it" tvg-name="📺 ELEVEN SPORT 2 (POL - ACE)" tvg-logo="" group-title="EVENTI", 📺 ELEVEN SPORT 2 (POL - ACE)
-acestream://54a4a28882d3cae1ca19de5d4b022ebea40351f9
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 MATCH! FUTBOL 1 (RU - ACE)" tvg-logo="" group-title="EVENTI", 📺 MATCH! FUTBOL 1 (RU - ACE)
-acestream://b28db77c5084da7993395d77df96c30bb134f0a9
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 MATCH! FUTBOL 2 (RU - ACE)" tvg-logo="" group-title="EVENTI", 📺 MATCH! FUTBOL 2 (RU - ACE)
-acestream://d75a36e61079a548a2f73cdd4908aefd229e1ba5
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 MATCH! FUTBOL 3 (RU - ACE)" tvg-logo="" group-title="EVENTI", 📺 MATCH! FUTBOL 3 (RU - ACE)
-acestream://bf14806e09f6b8d6394ab9f8f11b4d75052c83e7
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 SPORT TV 3 (POR - ACE)" tvg-logo="" group-title="EVENTI", 📺 SPORT TV 3 (POR - ACE)
-acestream://02d91a509259b43e89c54f42ea031f2467993383
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 SPORT TV 4 (POR - ACE)" tvg-logo="" group-title="EVENTI", 📺 SPORT TV 4 (POR - ACE)
-acestream://f8090fe8319c09200e9113521ef24bec9e17fd68
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 TNT SPORT 1 (ENG - ACE)" tvg-logo="" group-title="EVENTI", 📺 TNT SPORT 1 (ENG - ACE)
-acestream://efc60cfe5e3a349baa02bcc49f6647c21a9c3c5b
-#EXTINF:-1 tvg-id="La.5.it" tvg-name="📺 ZIGGO SPORT (NL - ACE)" tvg-logo="" group-title="EVENTI", 📺 ZIGGO SPORT (NL - ACE)
-acestream://fcd7621df513f600652b4813d5d8fd1daed60058
-#EXTINF:-1 tvg-id="La.5.it" tvg-name="📺 ZIGGO SPORT 2 (NL - ACE)" tvg-logo="" group-title="EVENTI", 📺 ZIGGO SPORT 2 (NL - ACE)
-acestream://868a6187d6aeec65ded84bd777814c9f7b7a9027
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 20:45 NAPOLI vs ATALANTA [OPZ 1] (ITA - MPD)" tvg-logo="" group-title="Serie A 🇮🇹", 📺 20:45 NAPOLI vs ATALANTA [OPZ 1] (ITA - MPD)
+#EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
+# Playlist generata da Amstaff Downloader
+# Generata il: 2025-11-22 23:58:10
+# Canali totali: 2
+
+#EXTINF:-1 tvg-id="20.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 NAPOLI vs ATALANTA [OPZ 1] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=111572ed048652d5f9c2d92edd99d41b:4afeae8224fb62348a88b9cd3fbbdaa8
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763853009_f~0_g~1_s~93503cec-daaf-4ee0-b1ed-e4b104036e30_u~4bc6808e0bd9b764bfcdd70b3c574bfc6fa271c4769ade685b9855ccaecf50cc646c36334251c475350c1971771793e2_k~A_l~60_x~ef735459d30db450b3403d3a38b55d85/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysportcalcio)/master_2hr-aac.mpd
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 20:45 NAPOLI vs ATALANTA [OPZ 2] (ITA - MPD)" tvg-logo="" group-title="Serie A 🇮🇹", 📺 20:45 NAPOLI vs ATALANTA [OPZ 2] (ITA - MPD)
+
+#EXTINF:-1 tvg-id="20.it" group-title="Serie A 🇮🇹" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 20:45 NAPOLI vs ATALANTA [OPZ 2] (ITA - MPD)
+#KODIPROP:inputstream.adaptive.manifest_type=mpd
+#KODIPROP:inputstream.adaptive.license_type=clearkey
+#KODIPROP:inputstream.adaptive.license_key=11154006d6786bbbd283d78e99b06fec:5b1120e70e6afa35711eefcf3674c250
 https://g006-lin-it-cmaf-prd-cf.pcdn07.cssott02.com/v~1-0-0_e~1763853018_f~0_g~1_s~abe66b9d-9c55-4a86-b74c-448aaf6a0597_u~4bc6808e0bd9b764bfcdd70b3c574bfc6fa271c4769ade685b9855ccaecf50cc646c36334251c475350c1971771793e2_k~A_l~57_x~3365f375bd438971f68a6296285f19d8/nowitlin1/Content/CMAF_CTR_S1/Live/channel(skysport251)/master_2hr-aac.mpd
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 SuperTennis (ITA - ACE)" tvg-logo="" group-title="EVENTI", 📺 SuperTennis (ITA - ACE)
-acestream://b58dbf92765976b308695f62dea94b00b40730ee
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 SuperTennis (ITA - M3U8)" tvg-logo="" group-title="EVENTI", 📺 SuperTennis (ITA - M3U8)
-https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 Tennis Channel (UK - ACE)" tvg-logo="" group-title="EVENTI", 📺 Tennis Channel (UK - ACE)
-acestream://8091334c82e8720fc6aa05ff0bd6d343c5bfecbf
-#EXTINF:-1 tvg-id="20.it" tvg-name="📺 Tennis Channel (UK - M3U8)" tvg-logo="" group-title="EVENTI", 📺 Tennis Channel (UK - M3U8)
-https://cdn-uw2-prod.tsv2.amagi.tv/linear/amg01444-tennischannelth-tennischde-samsungat/playlist.m3u8
+
