@@ -1,11 +1,7 @@
 #EXTM3U url-tvg="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml" x-tvg-url="https://raw.githubusercontent.com/powerbitt/SuperMike/main/epg.xml"
 # Playlist generata da Amstaff Downloader
-# Generata il: 2025-11-23 07:34:49
-# Canali totali: 16
-
-#EXTINF:-1 tvg-id="Sky.Sport.Tennis.it" group-title="Eventi DAZN 🏆" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 Sky Sport Tennis (ITA - M3U8)
-#KODIPROP:inputstream.adaptive.manifest_type=mpd
-freeshot@@SkySportTennisIT
+# Generata il: 2025-11-23 07:36:37
+# Canali totali: 15
 
 #EXTINF:-1 tvg-id="20.it" group-title="EVENTI" tvg-logo="https://www.hotel-desalpes.it/wp-content/uploads/2017/11/lastminute.png",📺 SuperTennis (ITA - M3U8)
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
